@@ -3,6 +3,8 @@
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
+![notion avatar](https://notion-avatar.vercel.app/api/svg/eyJmYWNlIjoxNSwibm9zZSI6MTAsIm1vdXRoIjoxLCJleWVzIjo5LCJleWVicm93cyI6MCwiZ2xhc3NlcyI6MTQsImhhaXIiOjM0LCJhY2Nlc3NvcmllcyI6MCwiZGV0YWlscyI6MCwiYmVhcmQiOjAsImZsaXAiOjAsImNvbG9yIjoiI2JmYmZiZiIsInNoYXBlIjoibm9uZSJ9)
+
 <img src="https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxNSwibm9zZSI6MTAsIm1vdXRoIjoxLCJleWVzIjo5LCJleWVicm93cyI6MCwiZ2xhc3NlcyI6MTQsImhhaXIiOjM0LCJhY2Nlc3NvcmllcyI6MCwiZGV0YWlscyI6MCwiYmVhcmQiOjAsImZsaXAiOjAsImNvbG9yIjoiI2JmYmZiZiIsInNoYXBlIjoibm9uZSJ9" alt="notion avatar">
 
 <div align="center">
