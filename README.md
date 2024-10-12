@@ -3,6 +3,8 @@
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
+<img src="https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxNSwibm9zZSI6MTAsIm1vdXRoIjoxLCJleWVzIjo5LCJleWVicm93cyI6MCwiZ2xhc3NlcyI6MTQsImhhaXIiOjM0LCJhY2Nlc3NvcmllcyI6MCwiZGV0YWlscyI6MCwiYmVhcmQiOjAsImZsaXAiOjAsImNvbG9yIjoiI2JmYmZiZiIsInNoYXBlIjoibm9uZSJ9" alt="notion avatar">
+
 <div align="center">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
@@ -110,5 +112,3 @@
     </tr>
  </table>
 </div>
-
-<a href="https://app.daily.dev/tran_hien"><img src="https://api.daily.dev/devcards/v2/652gRPgENW37BtNLm0A84.png?r=eum&type=default" width="356" alt="tranhien_'s Dev Card"/></a>
